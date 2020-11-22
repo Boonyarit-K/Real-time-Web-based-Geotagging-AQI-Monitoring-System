@@ -29,5 +29,3 @@ Firebase
 --- Compiler ---
 
 Arduino IDE - base on C,C++,C#
-
---- copyright of KMUTT ---
